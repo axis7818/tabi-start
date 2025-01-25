@@ -8,7 +8,7 @@ template = "page.html"
 tags = ["meta"]
 
 [extra]
-local_image = "img/profile.webp"
+local_image = "img/profile.png"
 +++
 
 A minimal project to demonstrate how project pages work in tabi. This template supports Markdown formatting, code blocks, and more.
