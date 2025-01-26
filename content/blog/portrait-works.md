@@ -2,6 +2,9 @@
 title = "PortraitWorks"
 date = "2020-01-14"
 description = "A post about the PortraitWorks Kickstarter"
+
+[taxonomies]
+tags = ["software"]
 +++
 
 #### Check out [PortraitWorks](https://www.portrait.works/) and download it on iOS or Android!{.centered-text}
