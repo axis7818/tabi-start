@@ -1,5 +1,7 @@
 +++
-title = "About Me"
+title = "Who is Cameron?"
+date = "2025-01-25"
+description = "A little bit about myself"
 +++
 
 # I am a Software Engineer
@@ -18,7 +20,7 @@ I got my start in software like many others, wanting to make games. This lead me
 
 While in school, I was fortunate enough to be part of the [Worldspinner](https://worldspinner.com/) team where I developed a variety of tools to empower creatives to build people, cultures, and worlds for their games and stories. At Worldspinner, I played a big role in mobile platform integration and graphics development for the [PortraitWorks](https://worldspinner.com/portraits.html) mobile app.
 
-# Personal Stuff
+# And Some Personal Stuff
 
 ![cameron in zion](/img/cameron-zion.png)
 

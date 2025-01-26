@@ -5,7 +5,7 @@ weight = 1
 template = "page.html"
 
 [taxonomies]
-tags = ["software", "cameron"]
+tags = ["software"]
 
 [extra]
 local_image = "img/profile.png"

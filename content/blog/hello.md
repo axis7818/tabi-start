@@ -1,23 +1,13 @@
 +++
 title = "Hello, World!"
-date = "2093-02-16"
-description = "My first post using the tabi theme."
-
-[taxonomies]
-tags = ["demo"]
+date = "2025-01-25"
+description = "My first blog post"
 +++
 
-This is your first blog post! You can:
+![mouse and keyboard on a desk](/img/keyboard.png)
 
-* Write in *Markdown*
-* Add code blocks:
+This is my first blog post! Look forward to more as I work on porting over my previous website and update those posts.
 
-```python
-print("Hello, World!")
-```
+I also intend on contributing posts more regularly going forward!
 
-* Create [links](https://example.com)
-* Add images
-* And much more!
-
-Check [tabi's documentation](https://welpo.github.io/tabi/) to learn about all features.
+Here is
