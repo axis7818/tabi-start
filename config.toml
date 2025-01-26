@@ -1,5 +1,5 @@
 base_url = "https://camerontaylor.dev/"
-title = "Cameron Taylor"
+title = "~/camerontaylor.dev"
 description = "A personal website for Cameron Taylor"
 author = "Cameron Taylor"
 theme = "tabi"
@@ -66,7 +66,7 @@ default_theme = ""
 # contrast (in light theme) for readability and might not be suitable for all users.
 # Furthermore, low contrasting elements will affect your Google Lighthouse rating.
 # All other skins have optimal contrast.
-skin = "lowcontrast_orange"
+skin = "axis7818"
 
 # Set browser theme colour. Can be a single colour or [light, dark].
 # Note: Bright colors may be ignored in dark mode.
