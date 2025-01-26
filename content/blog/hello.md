@@ -9,5 +9,3 @@ description = "My first blog post"
 This is my first blog post! Look forward to more as I work on porting over my previous website and update those posts.
 
 I also intend on contributing posts more regularly going forward!
-
-Here is
