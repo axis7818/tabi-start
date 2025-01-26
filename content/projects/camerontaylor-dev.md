@@ -33,7 +33,7 @@ To set up and use my own repository:
 	```sh
 	# Assuming macOS
 	brew install zola
-	git clone https://github.com/axis7818/tabi-start
+	git clone https://github.com/axis7818/axis7818.github.io
 	git submodule update --init --recursive
 	zola serve
 	```
