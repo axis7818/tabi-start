@@ -12,15 +12,28 @@ This is the GitHub repository for my personal website.
 
 This site is built with [Zola](https://www.getzola.org/) and [tabi](https://welpo.github.io/tabi/). It was forked from [tabi-start](https://github.com/welpo/tabi-start).
 
-```sh
-# Install Zola
-brew install zola
+### 1. Clone the Repository
 
-# Clone Repository
+The tabi theme is included as a git submodule.
+
+```sh
 git clone https://github.com/axis7818/axis7818.github.io
 git submodule update --init --recursive
+```
 
-# Start Developing
+### 2. Install Zola
+
+```sh
+# on macOS
+brew install zola
+
+# on windows
+winget install getzola.zola
+```
+
+### 3. Start the Development Server
+
+```sh
 zola serve
 ```
 
